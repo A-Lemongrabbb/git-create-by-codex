@@ -1,3 +1,6 @@
 banana
 apple
 cherry
+梨
+菠萝
+草莓
